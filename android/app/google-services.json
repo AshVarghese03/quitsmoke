@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304507237033",
+    "project_id": "madnew-2a0a3",
+    "storage_bucket": "madnew-2a0a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304507237033:android:d6eb91c483ba3c75276fb8",
+        "android_client_info": {
+          "package_name": "com.example.madnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqusbArumpZ5uo-QhmiwdBM2eSZ_36O2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
